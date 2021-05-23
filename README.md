@@ -4,7 +4,7 @@ A theme for zsh, used by ycpedef.
 ## feature
 
 display username  
-display folder path (not more than 3 folders)  
+display folder path (only display nearest 3 folders)  
 display time (colored by last command status)  
 display return code  
 
